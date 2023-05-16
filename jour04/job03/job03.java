@@ -1,5 +1,4 @@
 package jour04.job03;
-import java.util.*;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.Duration;
